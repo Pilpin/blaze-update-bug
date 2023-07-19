@@ -3,7 +3,7 @@ package io.pilp.blazeupdatebug.persistence;
 import io.pilp.blazeupdatebug.domain.Country;
 import io.pilp.blazeupdatebug.domain.CountryRepository;
 import io.quarkus.test.junit.QuarkusTest;
-import jakarta.inject.Inject;
+import javax.inject.Inject;
 import org.junit.jupiter.api.*;
 
 import java.util.ArrayList;
